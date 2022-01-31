@@ -5,4 +5,6 @@ Diego Núñez tiene 27 años, nació en Cusco y se irá a USA
 Diego será el mejor ingeniero del mundo y hará historia
 Mi primer commit
 
+Master 1
+
 Mañana nos enfocaremos en su vida laboral
